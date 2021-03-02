@@ -1,0 +1,4 @@
+Joe’s Automotive Shop services foreign cars and specializes in servicing cars made by Mercedes, Porsche, and BMW. 
+When a customer brings a car to the shop, the manager gets the customer’s name, address, and telephone number. 
+The manager then determines the make, model, and year of the car and gives the customer a service quote. 
+The service quote shows the estimated parts charges, estimated labor charges, sales tax, and total estimated charges.
